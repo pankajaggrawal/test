@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_nR2jMA4qEeeVd_ZFc4OLWw" name="repository.metadataGenericSchema" dataPackage="_nR2jMQ4qEeeVd_ZFc4OLWw"/>
+  <TalendMetadata:GenericPackage xmi:id="_nR2jMQ4qEeeVd_ZFc4OLWw" name="repository.metadataGenericSchema" dataManager="_nR2jMA4qEeeVd_ZFc4OLWw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_nR2jMg4qEeeVd_ZFc4OLWw" id="_ezxjoA4qEeeVd_ZFc4OLWw" comment="Dd" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nR2jMw4qEeeVd_ZFc4OLWw" name="Name" label="Name" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nR2jNA4qEeeVd_ZFc4OLWw" name="email" label="email" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nR2jNQ4qEeeVd_ZFc4OLWw" name="Age" label="Age" length="-1" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
